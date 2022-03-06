@@ -1,0 +1,7 @@
+specVersion: '2.4'
+metadata:
+  name: build-test-app2
+type: application
+framework:
+  name: SAPUI5
+  version: "1.91.0"
